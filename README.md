@@ -1,34 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdal Majeed
-====================================================================================================================================
+# Hello, World! I'm [lytooo390] 🌟
 
-Trainee developer
------------------
+## 📖 My Story
+I'm a lifelong learner and educator with a passion for technology and its potential to transform education. With years of experience in the field, I've dedicated myself to developing innovative solutions that make learning more accessible and engaging for everyone.
 
-Trainee developer, I aspire to continue learning
+## 🚀 What I Do
+As the creator of `[!]`, I strive to bridge the gap between technology and education. My work focuses on creating seamless integrations that empower educators and students, making the educational experience more interactive and impactful.
 
-* 🌍  I'm based in Saudi Arabia
-* 🤝  I'm open to collaborating on Projects
+## 💼 Professional Journey
+- **Educator**: Sharing knowledge and inspiring students at [!!].
+- **Developer**: Building tools and applications that enhance the learning process.
+- **Innovator**: Constantly exploring new ways to apply technology in education.
 
-### Skills
+## 🛠 Skills & Expertise
+- **Languages**: Proficient in Python, JavaScript, HTML, CSS.
+- **Frameworks**: Experienced with Django, React.
+- **Tools**: Skilled in Git, Docker, Jenkins.
+- **Databases**: Knowledgeable in PostgreSQL, MongoDB.
 
+## 🌐 My Projects
+- **[Project Name](https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31)**: A platform that connects learners with resources.
+- **[Project Name](https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31)**: An app that personalizes the learning experience.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+## 🏆 Achievements
+- Recognized as 'Best Educator' for innovative teaching methods.
+- Successfully increased resource utilization by 30% through API integration.
 
+## 📬 Get in Touch
+- **LinkedIn**: [Connect with me](https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31)
+- **Twitter**: [Follow my journey](https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31)
+- **Email**: [Drop me a line](https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31)
 
-### Socials
+## 📊 GitHub Stats
+!Your GitHub Stats
 
-<p align="left"> <a href="https://discord.com/users/lytooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/lytooo390" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Lytooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Lytooo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/lytoo0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lytooo390"><img src="https://github-readme-stats.vercel.app/api?username=lytooo390&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lytooo390's GitHub stats" /></a>
-
-<a href="http://www.github.com/lytooo390"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lytooo390&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/lytooo390"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lytooo390&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/lytooo390" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytooo390&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Thank you for exploring my page. Let's collaborate and make a difference in the world of education together!
